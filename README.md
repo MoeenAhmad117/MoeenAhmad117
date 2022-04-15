@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MoeenAhmad117
 - 👀 I’m interested in Embedded Systems Design and Verification.
 - 🌱 I’m currently learning BS Electrical Engineering at University of Engineering and Tehnology, Lahore, Punjab, Pakistan.
-- 💞️ I’m looking to collaborate on Final Year Project with my teammates in addition with finding the more collaborators for futher growth and learning.
-- 📫 You can reach to me using my personal email ID i.e.
+- 💞️ I’m looking to collaborate on Final Year Project with my teammates in addition with finding the more collaborators for further growth and learning.
+- 📫 You can reach to me using my personal email and linkedIn ID i.e.
 -             moeen7475@gmail.com
 -             www.linkedin.com/in/moeen-ahmad-a733511b0
 -             
